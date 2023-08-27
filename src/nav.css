@@ -1,0 +1,26 @@
+li {
+    padding:20px;
+}
+.nav{
+    justify-content: center;
+    font-size: 30px;
+    font-weight: bolder;
+    
+}
+.link{
+  color:rgb(3, 122, 33);
+ 
+  text-decoration: none;
+}
+.link:hover{
+    color:rgb(189, 25, 4);
+   
+}
+.Home
+{
+    text-decoration: none;
+    color:rgb(3, 122, 33);
+}
+.Home:hover{
+    color:rgb(189, 25, 4);
+}
